@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="adult">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAA=</HashCode>
+      <FileName>adult.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cell">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAMAAAAAAAAAAAAAAAAAIAAAAAiAAAAA=</HashCode>
+      <FileName>cell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="child">
+    <Position X="6.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>child.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="elderly">
+    <Position X="8.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>elderly.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="4.5" Y="3.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAARAABEQCIAlAAEGIAAmQAIAAAABQAAEEiBBgAg=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="button" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="info">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIQABQAQAADAAAAgBBgEAAASAYgAAEAgEA=</HashCode>
+      <FileName>info.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
